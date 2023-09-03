@@ -7,13 +7,14 @@ El repositorio incluye un documento PDF que detalla todo el proceso del proyecto
 
 Habilidades y herramientas aplicadas en este proyecto:
 
-Análisis exploratorio de datos
-Limpieza y transformación de datos
-Estadísticas descriptivas
-Visualización de datos
-Uso de herramientas como Excel, Power BI y SQL
+* Análisis exploratorio de datos
+* Limpieza y transformación de datos
+* Estadísticas descriptivas
+* Visualización de datos
+* Uso de herramientas como Excel, Power BI y SQL
 
 Te invito a explorar este proyecto para obtener una comprensión más profunda de la evolución de la pandemia y el impacto de las medidas de salud pública.
 
 Link del tablero (Power BI):
+
 https://app.powerbi.com/view?r=eyJrIjoiYWU1YzkzODAtNDgzOC00NmI0LWIwY2EtNWMxYjM4MzAzZmQ4IiwidCI6IjFmN2Q0Njk5LWNjZDctNDVkNi1iYzc4LWI4Yjk1MGJjYWVkYyIsImMiOjR9
